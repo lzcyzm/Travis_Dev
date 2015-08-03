@@ -152,7 +152,7 @@ TravisPlot <- function(peak,
     }
   )
   
-  multiplot(p1, p2, cols=1)
+  .multiplot(p1, p2, cols=1)
   if (returnCount) {
     q <- list(original=ct,mRNA_normalized=ct1,ncRNA_normalized=ct2)
     return(q)
