@@ -49,11 +49,12 @@ narrowPeaktoGRanges(file)
 ## The function is currently defined as
 function (file) 
 {
-  c <- read.table(file,sep="\t",header=FALSE)
-  peak <- GRanges(seqnames=as.character(c[[1]]),ranges=IRanges(start=c[[2]],end=c[[3]]))
-  mcols(peak) <- c
-  return(peak)
-}
+    c <- read.table(file, sep = "\t", header = FALSE)
+    peak <- GRanges(seqnames = as.character(c[[1]]), ranges = IRanges(start = c[[2]], 
+        end = c[[3]]))
+    mcols(peak) <- c
+    return(peak)
+  }
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.

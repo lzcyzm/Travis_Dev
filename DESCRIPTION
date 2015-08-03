@@ -1,4 +1,4 @@
-Package: Travis_Dev
+Package: Travis
 Type: Package
 Title: Transcriptomic View of Genomic Features
 Version: 0.2.0
