@@ -3,7 +3,7 @@
 \alias{Travis}
 \docType{package}
 \title{
-\packageTitle{Travis}
+Travis
 }
 \description{
 \packageDescription{Travis}
