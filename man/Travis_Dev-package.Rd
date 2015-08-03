@@ -3,32 +3,25 @@
 \alias{Travis_Dev}
 \docType{package}
 \title{
-\packageTitle{Travis_Dev}
+Travis_Dev
 }
 \description{
-\packageDescription{Travis_Dev}
+Transcriptomic View of Genomic Features
 }
 \details{
-
-The DESCRIPTION file:
-\packageDESCRIPTION{Travis_Dev}
-\packageIndices{Travis_Dev}
-~~ An overview of how to use the package, including the most important functions ~~
+Transcriptomic View of Genomic Features
 }
 \author{
-\packageAuthor{Travis_Dev}
-
-Maintainer: \packageMaintainer{Travis_Dev}
+Jia Meng
+Maintainer: Jia Meng <jia.meng@xjtlu.edu.cn> 
 }
 \references{
 ~~ Literature or other references for background information ~~
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation directory ~~
 \keyword{ package }
 \seealso{
 ~~ Optional links to other man pages, e.g. ~~
 ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
-~~ simple examples of the most important functions ~~
 }
