@@ -1,3 +1,6 @@
 # Travis
 Transcriptomic Vew of Genomic Features
-Please refer to a manual: http://rpubs.com/lzcyzm/travis1
+A most latest manual here: http://rpubs.com/lzcyzm/98557
+
+ps, A old manual: http://rpubs.com/lzcyzm/travis1
+
