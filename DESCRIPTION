@@ -1,0 +1,12 @@
+Package: Travis_Dev
+Type: Package
+Title: Transcriptomic View of Genomic Features
+Version: 0.2.0
+Date: 2015-08-03
+Author: Jia Meng
+Maintainer: Jia Meng <jia.meng@xjtlu.edu.cn>
+Description: Transcriptomic View of Genomic Features
+License: GPL-2
+Depends: Rsamtools, GenomicFeatures (>= 1.14.5), rtracklayer, GenomicAlignments, IRanges, GenomicRanges, ggplot2
+Imports: Rsamtools, GenomicFeatures (>= 1.14.5), rtracklayer, GenomicAlignments, IRanges, GenomicRanges, ggplot2
+biocViews: Sequencing, HighThroughputSequencing, Methylseq, RNAseq
